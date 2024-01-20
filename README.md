@@ -1,2 +1,4 @@
 # Backend
-Sirius but for 0T6.5
+Node based Backend for OT6.5
+<br>
+[Sirius Branch](https://github.com/ProjectEternal/Backend/edit/ot-server)
