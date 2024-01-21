@@ -1,0 +1,22 @@
+{
+  "name": "ot-server",
+  "version": "0.1.0",
+  "description": "fortnite ot6.5 backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProjectEternal/Backend.git"
+  },
+  "author": "GDBOI101",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProjectEternal/Backend/issues"
+  },
+  "homepage": "https://github.com/ProjectEternal/Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
