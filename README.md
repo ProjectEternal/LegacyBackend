@@ -13,6 +13,3 @@ Open start.bat
 Move ```GameUtils\Launcher.bat``` into ```FortniteGame\Binaries\Win32```
 <br>
 Open Launcher.bat in ```FortniteGame\Binaries\Win32```
-
-# Branches
-[Sirius Branch](https://github.com/ProjectEternal/Backend/tree/sirius)
