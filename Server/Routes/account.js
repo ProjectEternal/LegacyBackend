@@ -1,4 +1,8 @@
 module.exports = function (server) {
+    server.get("/account", (req, res) => {
+        res.json({});
+    })
+
     server.get("/account/api/public/account/:accId", (req, res) => {
         res.json({
             "id": req.params.accId,
@@ -35,7 +39,7 @@ module.exports = function (server) {
 
     server.get("/account/api/accounts/:accId/metadata", (req, res) => {
         res.json({
-            "FGOnboarded": "true"
+            "FGOnboarded": "true" //Proper Trust
         })
     })
 }
